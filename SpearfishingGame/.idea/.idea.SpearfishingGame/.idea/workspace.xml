@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc77f807-9f57-4a3f-b741-27e3ebb38e91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/1K-ground_11_ambientocclusion.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/1K-ground_11_basecolor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/1K-ground_11_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/1K-ground_11_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/FPSPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/FPSPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FishBP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FishSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FishSpawner.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Level.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/Assignment2Material.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/Assignment2Material.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/Instances/LakeWaterInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/Instances/LakeWaterInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/Instances/materialInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/Instances/materialInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/Mat_Water.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/Mat_Water.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MoneyUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MoneyUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Transparent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Transparent.uasset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="28kzU3pAGcK9pw8xCIoOwu8IlqW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1651775417832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651775417832</updated>
+      <workItem from="1651775429579" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
